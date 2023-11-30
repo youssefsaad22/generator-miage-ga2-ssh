@@ -9,8 +9,8 @@ const secondecolorElt = document.getElementById('secondColor');
 //console.log(secondecolorElt);
 
 //recuperation de l'élément body
-const bodyElt= document.querySelector('body');
-//console.log(bodyElt);
+const bodyElt= document.querySelector('body '); 
+//console.log(bodyElt); 
 
 
 firstcolorElt.addEventListener('input',function() {
